@@ -13,4 +13,5 @@ int main(int argv, char* argc[])
 {
     cout << "pengjialing" << endl;
     cout << "hello world" << endl;
+    cout << "add " << endl;
 }
