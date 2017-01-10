@@ -8,3 +8,9 @@
 #include<iostream>
 using namespace std;
 
+
+int main(int argv, char* argc[])
+{
+    cout << "pengjialing" << endl;
+    cout << "hello world" << endl;
+}
